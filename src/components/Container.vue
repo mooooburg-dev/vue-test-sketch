@@ -16,10 +16,6 @@ export default {
 
   mounted() {
     this.sDate.setMonth(this.eDate.getMonth() - 3);
-
-    // console.log(this.sDate);
-    // console.log(this.eDate);
-
     console.log(this.arr.every(this.checkVal));
   },
 
