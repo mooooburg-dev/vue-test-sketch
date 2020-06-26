@@ -10,7 +10,8 @@ export default {
       eDate: new Date(),
 
       arr: [1, 2, 3],
-      num: 4
+      num: 4,
+      aa: "test"
     };
   },
 
