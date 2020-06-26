@@ -12,7 +12,7 @@ export default {
   },
 
   mounted() {
-    this.sDate.setMonth(this.eDate.getMonth() - 3);
+    // this.sDate.setMonth(this.eDate.getMonth() - 3);
   },
 
   methods: {}
